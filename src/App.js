@@ -1,5 +1,4 @@
 import { useEffect } from "react";
-import { Helmet } from "react-helmet";
 import "./App.css";
 import logo from "./assets/Logo.png";
 
